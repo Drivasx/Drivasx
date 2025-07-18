@@ -9,7 +9,12 @@
 🌍 Desde: Bogotá, Colombia 
 
 📫 Contáctame: 
-davidmrivasb2004@gmail.com  www.linkedin.com/in/davidm-rivasb
+
+Correo: davidmrivasb2004@gmail.com  
+
+Linkedin: www.linkedin.com/in/davidm-rivasb
+
+Página web: https://portfolio-davidrivas.vercel.app
 
 
 

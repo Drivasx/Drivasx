@@ -1,6 +1,6 @@
 # 👋 Hola, soy David
 
-🎓 Actualmente soy estudiante de ingeniería de sistemas
+🎓 Actualmente soy estudiante de ingeniería de sistemas de la universidad El Bosque
 💻 Me enfoco en el deasrrollo full stack 
 🚀 Buscando oportunidades para crecer como desarrollador  
 🌍 Desde: Bogotá, Colombia 
@@ -32,8 +32,8 @@ davidmrivasb2004@gmail.com  www.linkedin.com/in/davidm-rivasb
 
 ## 📈 GitHub Stats
 
-![David GitHub stats](https://github-readme-stats.vercel.app/api?username=Drivas04&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drivas04&layout=compact&theme=radical)](https://github.com/TuUsuario)
+![David GitHub stats](https://github-readme-stats.vercel.app/api?username=Drivasx&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drivasx&layout=compact&theme=radical)](https://github.com/TuUsuario)
 
 
 

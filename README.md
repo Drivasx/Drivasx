@@ -1,9 +1,13 @@
 # 👋 Hola, soy David
 
 🎓 Actualmente soy estudiante de ingeniería de sistemas de la universidad El Bosque
+
 💻 Me enfoco en el deasrrollo full stack 
+
 🚀 Buscando oportunidades para crecer como desarrollador  
+
 🌍 Desde: Bogotá, Colombia 
+
 📫 Contáctame: 
 davidmrivasb2004@gmail.com  www.linkedin.com/in/davidm-rivasb
 

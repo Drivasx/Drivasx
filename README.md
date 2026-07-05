@@ -1,37 +1,30 @@
 # 👋 Hola, soy David
 
-🎓 Actualmente soy estudiante de ingeniería de sistemas de la universidad El Bosque
+Soy estudiante de ingeniería de sistemas de la universidad El Bosque
 
-💻 Me enfoco en el deasrrollo full stack 
+Me enfoco en el desarrollo backend y desarrollo de aplicaciones móviles
 
-🚀 Buscando oportunidades para crecer como desarrollador  
+Bogotá, Colombia 
 
-🌍 Desde: Bogotá, Colombia 
-
-📫 Contáctame: 
+Contáctame: 
 
 Correo: davidmrivasb2004@gmail.com  
 
 Linkedin: www.linkedin.com/in/davidm-rivasb
 
-Página web: https://portfolio-davidrivas.vercel.app
 
-
-
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=spring)
 
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 
-![React](https://img.shields.io/badge/-React-000?&logo=react)
+![React Native](https://img.shields.io/badge/-React-000?&logo=react)
 
-![Astro](https://img.shields.io/badge/-Astro-000?&logo=astro)
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-
-![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=oracle)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=sql)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgreSQL)
 

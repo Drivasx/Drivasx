@@ -34,8 +34,8 @@ Linkedin: www.linkedin.com/in/davidm-rivasb
 
 ## 📈 GitHub Stats
 
-![David GitHub stats](https://github-readme-stats.vercel.app/api?username=Drivasx&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drivasx&layout=compact&theme=radical)](https://github.com/TuUsuario)
+![David GitHub stats]((https://github-stats-extended.vercel.app/api?username=Drivasx)](https://github.com/stats-organization/github-stats-extended))
+[![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Drivasx&layout=compact&theme=radical)](https://github.com/Drivasx)
 
 
 
